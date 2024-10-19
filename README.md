@@ -1,5 +1,9 @@
+<img height="180px" width="3000px" src="https://static.vecteezy.com/system/resources/thumbnails/024/689/019/small/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-virtual-tunnel-warp-made-with-digital-code-data-flow-illustration-vector.jpg" >
+
 <h1 align="center">Hi, I'm Mohd Ammar</h1>
 <h3 align="center">BTech student specializing in Information Technology</h3>
+
+<img height="210px" width="330px" align="right" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg">
 
 - 📫 How to reach me (email):  **mohdammar1011@gmail.com**
 - 📫 How to reach me (Mobile Number): **+91-9170916080**
@@ -22,3 +26,5 @@
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
+
+

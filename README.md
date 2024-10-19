@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mohd Ammar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">BTech student specializing in Information Technology</h3>
 
-- 📫 How to reach me(email):  **mohdammar1011@gmail.com**
-- 📫 How to reach me(Mobile Number): **+91-9170916080**
+- 📫 How to reach me (email):  **mohdammar1011@gmail.com**
+- 📫 How to reach me (Mobile Number): **+91-9170916080**
 - 🌱 I’m currently learning **Backend Development Tools**
 
 
